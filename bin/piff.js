@@ -58,7 +58,6 @@ const compileFile = path => {
       return src
     })
     .then(transpile)
-    .then(php => `<?php\n${php}\n?>`)
 }
 
 const compileStdin = () =>
