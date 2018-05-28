@@ -1,6 +1,6 @@
 {
   "name": "piff-cli",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "license": "ISC",
   "bin": {
     "piff": "./bin/piff"
